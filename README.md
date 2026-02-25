@@ -1,3 +1,3 @@
 # HKJC-Horse-Racing-Prediction-ML-Project
-I scrap horse racing results from HKJC and use them to research the use of different datatypes, ML models, parameters etc.
-Update soon
+The project scraps historic horse racing data from HKJC and other sources, use them to research the implementation of various ML prediction models and parameters, and find optimal bets using Kelly Criterion and expectation pricing.
+
