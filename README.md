@@ -1,6 +1,8 @@
 # HKJC-Horse-Racing-Prediction-ML-Project
 The project scraps historic horse racing data from HKJC and other sources, use them to research the implementation of various ML prediction models and parameters, and find optimal bets using Kelly Criterion and expectation pricing.
 
+
+
 Random forest for probability of getting winning (based on all equal odds):
 <img width="2084" height="744" alt="next_race_predictions_plot" src="https://github.com/user-attachments/assets/21f94ecc-141c-45b7-9796-1d3b35f3ec58" />
 
